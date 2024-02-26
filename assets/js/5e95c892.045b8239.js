@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkafka_docs=self.webpackChunkkafka_docs||[]).push([[9647],{7121:(e,s,a)=>{a.r(s),a.d(s,{default:()=>t});a(6540);var r=a(4164),c=a(1003),u=a(7559),k=a(2831),d=a(781),n=a(4848);function t(e){return(0,n.jsx)(c.e3,{className:(0,r.A)(u.G.wrapper.docsPages),children:(0,n.jsx)(d.A,{children:(0,k.v)(e.route.routes)})})}}}]);
