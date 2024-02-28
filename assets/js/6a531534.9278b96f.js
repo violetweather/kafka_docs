@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkafka_docs=self.webpackChunkkafka_docs||[]).push([[4131],{7136:a=>{a.exports=JSON.parse('{"title":"Gacha","description":"yes","slug":"/category/gacha","permalink":"/docs/category/gacha","navigation":{"previous":{"title":"/urban","permalink":"/docs/context/entertainment/urban"},"next":{"title":"/gacha","permalink":"/docs/context/gacha/"}}}')}}]);
