@@ -4,8 +4,8 @@
   <ShortName>Kangel</ShortName>
   <Description>Search Kangel</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://kangel.koohii.moe/kafka_docs/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://kangel.koohii.moe/kafka_docs/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://kangel.koohii.moe/kafka_docs/opensearch.xml" />
-  <moz:SearchForm>https://kangel.koohii.moe/kafka_docs/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://kangel.koohii.moe/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://kangel.koohii.moe/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://kangel.koohii.moe/opensearch.xml" />
+  <moz:SearchForm>https://kangel.koohii.moe/</moz:SearchForm>
 </OpenSearchDescription>

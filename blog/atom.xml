@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://kangel.koohii.moe/kafka_docs/blog</id>
+    <id>https://kangel.koohii.moe/blog</id>
     <title>Kangel Blog</title>
     <updated>2023-02-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://kangel.koohii.moe/kafka_docs/blog"/>
+    <link rel="alternate" href="https://kangel.koohii.moe/blog"/>
     <subtitle>Kangel Blog</subtitle>
-    <icon>https://kangel.koohii.moe/kafka_docs/img/favicon.ico</icon>
+    <icon>https://kangel.koohii.moe/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[The Beginning]]></title>
-        <id>https://kangel.koohii.moe/kafka_docs/blog/the-beginning</id>
-        <link href="https://kangel.koohii.moe/kafka_docs/blog/the-beginning"/>
+        <id>https://kangel.koohii.moe/blog/the-beginning</id>
+        <link href="https://kangel.koohii.moe/blog/the-beginning"/>
         <updated>2023-02-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the beginning to the lengthy documentation of Kangel. After a good amount of hours, I have put together all the information needed to know about all the uses she may have.]]></summary>
         <content type="html"><![CDATA[<p>This is the beginning to the <em>lengthy</em> documentation of <strong>Kangel</strong>. After a good amount of hours, I have put together all the information needed to know about all the uses she may have.</p>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Kangel Blog</title>
-        <link>https://kangel.koohii.moe/kafka_docs/blog</link>
+        <link>https://kangel.koohii.moe/blog</link>
         <description>Kangel Blog</description>
         <lastBuildDate>Sat, 25 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[The Beginning]]></title>
-            <link>https://kangel.koohii.moe/kafka_docs/blog/the-beginning</link>
-            <guid>https://kangel.koohii.moe/kafka_docs/blog/the-beginning</guid>
+            <link>https://kangel.koohii.moe/blog/the-beginning</link>
+            <guid>https://kangel.koohii.moe/blog/the-beginning</guid>
             <pubDate>Sat, 25 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the beginning to the lengthy documentation of Kangel. After a good amount of hours, I have put together all the information needed to know about all the uses she may have.]]></description>
             <content:encoded><![CDATA[<p>This is the beginning to the <em>lengthy</em> documentation of <strong>Kangel</strong>. After a good amount of hours, I have put together all the information needed to know about all the uses she may have.</p>

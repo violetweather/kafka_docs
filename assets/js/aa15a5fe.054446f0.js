@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkafka_docs=self.webpackChunkkafka_docs||[]).push([[6370],{2451:a=>{a.exports=JSON.parse('[{"label":"kangel","permalink":"/kafka_docs/blog/tags/kangel","count":1},{"label":"dev","permalink":"/kafka_docs/blog/tags/dev","count":1}]')}}]);
