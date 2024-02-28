@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkafka_docs=self.webpackChunkkafka_docs||[]).push([[1067],{8723:a=>{a.exports=JSON.parse('{"permalink":"/kafka_docs/blog/tags/dev","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

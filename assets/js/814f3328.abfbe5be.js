@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkafka_docs=self.webpackChunkkafka_docs||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The Beginning","permalink":"/kafka_docs/blog/the-beginning","unlisted":false}]}')}}]);
