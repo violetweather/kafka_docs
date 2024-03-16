@@ -12,25 +12,25 @@ The main command to play around with the gacha game built-in!
 
 View and purchase several items.
 
-### Available banners
-`/gacha banners <choice>`
+### Available websites
+`/gacha websites <choice>`
 
-Gacha games contain banners, these banners will give the user different characters and items. The Standard banner will always be available and mostly remain the same, while the Featured banner will include the latest and greatest characters.
+The standard website is Doodle.com, it will always be available and mostly remain the same, while the Featured website will include the latest and greatest characters.
 
-### Pulling for characters
-`/gacha pull <banner> <choice>`
+### Downloading characters
+`/gacha download <website> <choice>`
 
-In gacha games, users can select a banner to obtain characters & items from. Once that banner is selected, users can choose whether to pull once or multiple times. Verify banner information before running pulls!
+Once a wesbsite is selected, users can choose whether to download once or multiple times. Verify website information before running downloads!
 
 ### Searching characters
 `/gacha search <name>`
 
 All Characters & Items available are searchable.
 
-### Historical pull record
+### Historical download record
 `/gacha record`
 
-This command shows a historical record of all pulls.
+This command shows a historical record of all downloads.
 
 ### Sell items
 `/gacha sell`

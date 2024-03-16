@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   trailingSlash: true,
   title: 'Kangel',
-  tagline: 'The NEEDY GIRL is now on Discord!',
+  tagline: 'A gacha game? Reminders? Money conversion? Tamagotchi? What else would you need in a Discord bot?',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -86,10 +86,11 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/violetweather/kafka_docs',
           label: 'GitHub',
           position: 'right',
         },
+        {to: '/privacy', label: 'Privacy Policy', position: 'left'},
       ],
     },
     footer: {
