@@ -91,6 +91,7 @@ const config: Config = {
           position: 'right',
         },
         {to: '/privacy', label: 'Privacy Policy', position: 'left'},
+        {to: '/terms', label: 'Terms of Service', position: 'left'},
       ],
     },
     footer: {
